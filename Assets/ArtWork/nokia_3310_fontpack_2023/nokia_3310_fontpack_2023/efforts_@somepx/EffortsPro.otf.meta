@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ef34328352ea1be4e8fa68d9243e187f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - EffortsPro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9913ba595e10abd48ac0c95187998986, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
